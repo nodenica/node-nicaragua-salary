@@ -1,6 +1,6 @@
 var Salary = require('../lib/salary');
 
-var monthSalary = 28493.96;
+var monthSalary = 125000.00;
 
 var salary = new Salary(monthSalary);
 
